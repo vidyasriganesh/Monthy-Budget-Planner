@@ -1,5 +1,5 @@
 Monthy Budget Planner 
-by: Vishnu,Vasu,Vidya and Varun
+by: Vidya,vishnu, vasu and Varun
 
 When compiling code, use:
 gcc miniproj.c -o miniproj.exe -lgdi32
